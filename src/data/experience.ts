@@ -28,6 +28,7 @@ export const experience: Experience[] = [
     ],
     stack: [
       "React",
+      "NodeJs",
       "Next.js",
       "TypeScript",
       "TailwindCSS",
@@ -53,6 +54,7 @@ export const experience: Experience[] = [
     ],
     stack: [
       "React",
+      "NodeJs",
       "TypeScript",
       "Firebase",
       "TailwindCSS",
@@ -78,6 +80,7 @@ export const experience: Experience[] = [
     ],
     stack: [
       "React",
+      "NodeJs",
       "React Native",
       "Next.js",
       "TypeScript",

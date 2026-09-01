@@ -17,16 +17,16 @@ export function Hero() {
         <div className="kicker reveal d1">/ Sebastian Saporiti</div>
         <h1>
           <span className="line">
-            <span>Frontend</span>
+            <span>Fullstack</span>
           </span>
           <span className="line">
-            <span className="acc">Engineer</span>
+            <span className="acc">Developer</span>
           </span>
         </h1>
         <p className="tag reveal d3">
-          Hello — I'm Sebastian, a frontend engineer with 5+ years building
-          scalable web &amp; mobile products with React, React Native and
-          TypeScript. I focus on clean architecture, performance and
+          Hello — I'm Sebastian, a fullstack developer with 5+ years building
+          scalable web &amp; mobile products with React, React Native, NodeJs
+          and TypeScript. I focus on clean architecture, performance and
           user-centered interfaces that are a pleasure to use.
         </p>
         <div className="btns reveal d4">
