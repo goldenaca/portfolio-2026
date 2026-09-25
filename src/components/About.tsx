@@ -16,10 +16,11 @@ export function About() {
             Technology that <span className="acc">solves real problems</span>.
           </h3>
           <p>
-            Software Engineer specialized in React, React Native and Next.js,
-            with 5+ years building scalable web and mobile products. I focus on
-            clean, fast, user-centered interfaces inside modular architectures
-            that improve performance and make products easier to evolve.
+            Frontend-focused full-stack engineer with 5+ years building web and
+            mobile products. I've been the sole architect of a production
+            financial platform, led LLM integrations for a New York–based
+            product, and rebuilt a dental platform used by 60,000+ people
+            across Latin America.
           </p>
           <p>
             I work best on cross-functional teams where frontend meets design

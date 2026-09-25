@@ -63,16 +63,13 @@ export function Contact() {
           <div className="k">Email</div>
           <div className="v">{EMAIL}</div>
         </a>
-        <a href="tel:+5492944691027">
-          <div className="k">Github</div>
-          <a
-            target="_blank"
-            rel="noopener noreferrer"
-            href="https://github.com/goldenaca"
-            className="v"
-          >
-            github.com/goldenaca
-          </a>
+        <a
+          href="https://github.com/goldenaca"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <div className="k">GitHub</div>
+          <div className="v">github.com/goldenaca</div>
         </a>
         <a
           href="https://linkedin.com/in/sebastian-saporiti"

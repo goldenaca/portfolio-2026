@@ -9,7 +9,7 @@ export function Experience() {
         tag="/02 · Experience"
         title="Working across"
         accent="teams."
-        aside="Healthcare, e-commerce, aeronautics, B2B platforms — remote-first collaboration with international teams."
+        aside="Healthcare, e-commerce, aeronautics, fintech and AI-powered products — remote-first collaboration with teams across the US and LATAM."
       />
       <ScrollReveal stagger className="exp-list">
         {experience.map((e, i) => (

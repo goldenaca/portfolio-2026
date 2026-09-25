@@ -9,7 +9,7 @@ export function Work() {
         tag="/03 · Selected work"
         title="Things I've"
         accent="shipped."
-        aside="A selection of production projects across dental healthcare, aeronautics, e-commerce and property administration."
+        aside="A selection of production projects across dental healthcare, aeronautics, e-commerce, IoT, property administration and AI."
       />
       <ScrollReveal stagger className="projects">
         {projects.map((p) => (
